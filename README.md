@@ -64,3 +64,7 @@ The product categories are numbered 1 meat, 2 eggs, 3 milk, 4 fur, 5 leather, 6 
 | Tables A10 to A12 | `wtk_country_results.rtf`, `wtp_prct_country_results.rtf`, `wtpn_prct_country_results.rtf` |
 | Table A13 | `standardized_results.rtf` |
 | Table A14 | `R3_5_interactions.rtf` |
+
+## Use of AI tools
+
+All analyses were designed and set up by the authors. Claude Code (Anthropic) was used to support the implementation, formatting and optimisation of the code.
